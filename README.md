@@ -347,7 +347,7 @@ O Pipeline de ML é um processo sistemático usado para construir, treinar e imp
   - Fornecer documentação clara da história e desempenho do modelo para auditorias.
 - **Ferramentas**:
   - **SageMaker Clarify**: _Detectar viés_, explicar previsões do modelo e aumentar a transparência.
-  - **SageMaker Model Cards**: Criar documentação para modelos treinados, incluindo métricas de desempenho e uso pretendido.
+  - **SageMaker Model Cards**: Documenta os riscos e classificações dos modelos, além de fornecer informações personalizadas, promovendo transparência e responsabilidade no uso de modelos de aprendizado de máquina.
   - **ML Governance from SageMaker**: Fornece ferramentas para controle e visibilidade mais rigorosos sobre modelos de ML, ajudando a rastrear informações do modelo e monitorar comportamentos como viés.
   - **SageMaker ML Lineage Tracking**: Capturar todo o fluxo de trabalho, rastreando a linhagem do modelo para reprodutibilidade e governança.
   - **Glue DataBrew**: Simplificar a governança de dados com preparação visual de dados e regras de qualidade.
@@ -497,7 +497,7 @@ O processo típico de treinamento do SageMaker inclui vários elementos-chave qu
 - **SageMaker Role Manager**  
   - Gerencia permissões para recursos e serviços do SageMaker.
 - **SageMaker Model Cards**  
-  - Cria documentação transparente para modelos treinados.
+  - Documenta os riscos e classificações dos modelos, além de fornecer informações personalizadas, promovendo transparência e responsabilidade no uso de modelos de aprendizado de máquina. 
 - **SageMaker ML Lineage Tracking**  
   - Rastreia a linhagem dos modelos de ML para estabelecer governança, reproduzir fluxos de trabalho e manter o histórico de trabalho.
 - **SageMaker Model Dashboard**  
